@@ -13,7 +13,7 @@
 1. Some team members were unfamiliar with GitHub's interface and needed time to locate where to create and edit files.
 2. Uncertainty about what to include in the first commit and how detailed the README should be at this early stage.
 ### Evidence of Work
-- GitHub repository link: https://github.com/minhtetnaing019/ict105-team2-MVP
+- GitHub repository link: (https://github.com/m-whttheheavn/ICT105-Team2-MVP)
 
 
 ### Decision Made This Week
