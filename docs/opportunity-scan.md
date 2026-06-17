@@ -1,3 +1,4 @@
+#Lab 02 Opportunity Scanning
 # IT Venture Idea Comparison Table
  
 | Idea | Prototype Type | Tools Needed | Data Needed | Difficulty | Feasible? |
